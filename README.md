@@ -1,6 +1,6 @@
 # Hi, I'm Dorian👋
 
-I am a computer science student aiming to become a Data Scientist and Machine Learning Engineer, specializing in **Deep Reinforcement Learning**. 
+I am a computer science student aiming to become a Machine Learning Engineer, focused on applying Deep Reinforcement Learning to dynamic control systems, robotics, and autonomous agents.
 
 ### 🧠 About Me
 - 🔭 I’m currently building custom PyTorch implementations of advanced RL algorithms (like Rainbow DQN).
