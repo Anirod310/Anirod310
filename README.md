@@ -1,4 +1,4 @@
-# Hi, I'm Dorian Bousseksou 👋
+# Hi, I'm Dorian👋
 
 I am a computer science student aiming to become a Data Scientist and Machine Learning Engineer, specializing in **Deep Reinforcement Learning**. 
 
