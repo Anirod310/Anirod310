@@ -1,4 +1,4 @@
-# Hey 👋, I'm Dorian!
+# Hey 👋
 
 <div align="center">
 
@@ -9,18 +9,18 @@
 
 </div>
 
-I'm a computer science student aiming to become a **Machine Learning Engineer**, with a particular interest in **Deep Reinforcement Learning**, dynamic control systems, robotics, and autonomous agents.
+My name's Dorian, I'm a computer science student aiming to become a **Machine Learning Engineer**, with a particular interest in **Deep Reinforcement Learning**, dynamic control systems, robotics, and autonomous agents.
 
 I'm especially interested in understanding how intelligent agents can **learn through interaction with their environment**, rather than simply being programmed to perform a task.
 
 ---
 
-## 🧠 A little about me
+## 🧠Me
 
 - 🔭 I'm currently building custom **PyTorch implementations of advanced RL algorithms**, such as **Rainbow DQN**.
 - 🌱 I'm exploring **3D reinforcement learning environments with Unity ML-Agents**.
 - 🤖 I'm planning to dive deeper into **robotics simulation with NVIDIA Isaac Sim**.
-- 🧠 I'm also learning more about **LLMs and CNNs**.
+- 🧠 I'm also learning **LLMs and CNNs**.
 - ⚙️ My main development tools are **Python and PyTorch**.
 
 <!-- 🎞️ GIF / PHOTO HERE -->
