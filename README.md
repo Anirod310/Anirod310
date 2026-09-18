@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="663" height="854" alt="image" src="https://github.com/user-attachments/assets/56d58c98-153f-4036-9c4c-dfbf20edc256" />
+<img width="263" height="454" alt="image" src="https://github.com/user-attachments/assets/56d58c98-153f-4036-9c4c-dfbf20edc256" />
 
 <!-- 🖼️ PERSONAL PHOTO / ANIMATED GIF HERE -->
 <!-- Example: a photo of you, your workspace, or a subtle coding GIF -->
