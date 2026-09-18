@@ -1,4 +1,4 @@
-# <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/47e5f50c-0242-4b12-a6b2-c1a86cc8e4ca" /> Hey👋
+# <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/f597a8b7-1390-495a-bb12-2908ded66f83" /> Hey👋
 
 I'm Dorian, I am a computer science student aiming to become a Machine Learning Engineer, focused on applying Deep Reinforcement Learning to dynamic control systems, robotics, and autonomous agents.
 
