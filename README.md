@@ -1,4 +1,4 @@
-# Hey👋
+# <img width="150" height="100" alt="image" src="https://github.com/user-attachments/assets/31664e97-7ca1-4dd5-8bce-3748ecbeb29a" />Hey👋
 
 I'm Dorian, I am a computer science student aiming to become a Machine Learning Engineer, focused on applying Deep Reinforcement Learning to dynamic control systems, robotics, and autonomous agents.
 
@@ -17,4 +17,4 @@ I'm Dorian, I am a computer science student aiming to become a Machine Learning 
 * **[Rainbow DQN on LunarLander-v3](https://github.com/Anirod310/lunar-lander-rainbow-dqn):** A complete PyTorch implementation integrating Prioritized Experience Replay, N-Step Learning, Dueling Networks, Noisy Linear layers, and Distributional C51 learning.
 * **[DQN & Double DQN Control](https://github.com/Anirod310/cartpole-dqn):** PyTorch implementation and training scripts for Gymnasium's `CartPole-v1` environment.
 * **[Tabular Q-Learning](https://github.com/Anirod310/frozenlake-qlearning):** A fundamental RL implementation solving the `FrozenLake-v1` environment from scratch.
-<img width="220" height="205" alt="image" src="https://github.com/user-attachments/assets/6f31a713-1780-42e0-8037-1d22f82e626b" />
+
