@@ -11,19 +11,19 @@
 
 </div>
 
-My name's Dorian, I'm a computer science student aiming to become a **Machine Learning Engineer**, with a particular interest in **Deep Reinforcement Learning**, dynamic control systems, robotics, and autonomous agents.
+My name's Dorian, I'm a computer science student aiming to become a Machine Learning Engineer, with a particular interest in Reinforcement Learning, robotics, and autonomous agents.
 
-I'm especially interested in understanding how intelligent agents can **learn through interaction with their environment**, rather than simply being programmed to perform a task.
+I'm especially interested in understanding how intelligent agents can learn through interaction with their environment, rather than simply being programmed to perform a task.
 
 ---
 
 ## 🧠Me
 
-- 🔭 I'm currently building custom **PyTorch implementations of advanced RL algorithms**, such as **Rainbow DQN**.
-- 🌱 I'm exploring **3D reinforcement learning environments with Unity ML-Agents**.
-- 🤖 I'm planning to dive deeper into **robotics simulation with NVIDIA Isaac Sim**.
-- 🧠 I'm also learning **LLMs and CNNs**.
-- ⚙️ My main development tools are **Python and PyTorch**.
+- 🔭 I'm currently building custom PyTorch implementations of advanced RL algorithms, such as **Rainbow DQN**.
+- 🌱 I'm exploring 3D reinforcement learning environments with Unity ML-Agents.
+- 🤖 I'm planning to dive deeper into robotics simulation with NVIDIA Isaac Sim.
+- 🧠 I'm also learning LLMs and CNNs.
+- ⚙️ My main development tools are Python and PyTorch.
 
 <!-- 🎞️ GIF / PHOTO HERE -->
 <!-- Idea: a GIF of one of your RL agents training -->
@@ -61,7 +61,7 @@ A few projects where I'm putting my knowledge into practice.
 
 ### [🌈 lunar-lander-rainbow-dqn](https://github.com/Anirod310/lunar-lander-rainbow-dqn)
 
-A complete **PyTorch implementation of Rainbow DQN**, integrating:
+A complete PyTorch implementation of Rainbow DQN, integrating:
 
 - Prioritized Experience Replay
 - N-Step Learning
@@ -102,7 +102,7 @@ This project focuses on **DQN and Double DQN**, providing a simpler environment 
 
 ### [📊 frozenlake-qlearning](https://github.com/Anirod310/frozenlake-qlearning)
 
-A fundamental **Q-Learning implementation built from scratch**, solving:
+A fundamental Q-Learning implementation built from scratch, solving:
 
 `FrozenLake-v1`
 
@@ -111,13 +111,13 @@ A fundamental **Q-Learning implementation built from scratch**, solving:
 ![FrozenLake](./assets/frozenlake.gif)
 -->
 
-A project focused on the fundamentals of **Reinforcement Learning**, before moving toward more advanced deep RL algorithms.
+A project focused on the fundamentals of Reinforcement Learning, before moving toward more advanced deep RL algorithms.
 
 ---
 
 # 📈 What's next?
 
-My current focus is on going deeper into **Reinforcement Learning** and progressively moving toward more complex environments.
+My current focus is on going deeper into Reinforcement Learning and progressively moving toward more complex environments.
 
 ### Current → Future
 
@@ -137,8 +137,6 @@ My current focus is on going deeper into **Reinforcement Learning** and progress
 ---
 
 <div align="center">
-
-### 🧠 Learn → Build → Experiment → Repeat
 
 <!-- 🖼️ FINAL GIF / IMAGE HERE -->
 <!-- Something that represents your personality/interests rather than another technical screenshot -->
