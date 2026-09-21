@@ -6,7 +6,7 @@
 <!-- 🖼️ PERSONAL PHOTO / ANIMATED GIF HERE -->
 <!-- Example: a photo of you, your workspace, or a subtle coding GIF -->
 
-### 💻 Computer Science Student · 🤖 Machine Learning · 🧠 Reinforcement Learning
+# 💻 Computer Science Student · 🤖 Machine Learning · 🧠 Reinforcement Learning
 
 </div>
 
