@@ -10,7 +10,7 @@
 
 </div>
 
-My name's Dorian, I'm a computer science student aiming to become a Machine Learning Engineer, with a particular interest in Reinforcement Learning, robotics, and autonomous agents.
+My name is Dorian, I'm a computer science student aiming to become a Machine Learning Engineer, with a particular interest in Reinforcement Learning, robotics, and autonomous agents.
 
 I'm especially interested in understanding how intelligent agents can learn through interaction with their environment, rather than simply being programmed to perform a task.
 
