@@ -16,9 +16,7 @@ I'm especially interested in understanding how intelligent agents can learn thro
 
 ---
 
-<img height="20px" alt="image" src="https://github.com/user-attachments/assets/00824d06-40c2-4f54-8ca3-143f4bd7de60" />
-
-## Me 
+## Me <img height="20px" alt="image" src="https://github.com/user-attachments/assets/00824d06-40c2-4f54-8ca3-143f4bd7de60" />
 
 
 - 🔭 I'm currently building custom PyTorch implementations of advanced RL algorithms, such as **Rainbow DQN**.
