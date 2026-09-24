@@ -17,8 +17,6 @@ I'm especially interested in understanding how intelligent agents can learn thro
 ---
 
 ## Me <img height="40px" alt="image" src=""https://github.com/user-attachments/assets/8bd368e3-8fd4-4bad-85d5-3bd449fe55cb" />
-" />
-
 
 - 🔭 I'm currently building custom PyTorch implementations of advanced RL algorithms, such as **Rainbow DQN**.
 - 🌱 I'm exploring 3D reinforcement learning environments with Unity ML-Agents.
