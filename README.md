@@ -16,7 +16,7 @@ I'm especially interested in understanding how intelligent agents can learn thro
 
 ---
 
-<img height="1em" alt="image" src="https://github.com/user-attachments/assets/00824d06-40c2-4f54-8ca3-143f4bd7de60" />
+<img height="20px" alt="image" src="https://github.com/user-attachments/assets/00824d06-40c2-4f54-8ca3-143f4bd7de60" />
 
 ## Me 
 
