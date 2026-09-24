@@ -6,7 +6,7 @@
 <!-- 🖼️ PERSONAL PHOTO / ANIMATED GIF HERE -->
 <!-- Example: a photo of you, your workspace, or a subtle coding GIF -->
 
-## 💻 Computer Science Student · 🤖 Machine Learning ·🦾 Reinforcement Learning
+## 💻 Computer Science Student · <img height="60px" valign="middle" alt="image" src="https://github.com/user-attachments/assets/f143eeeb-e94b-4c9a-9fa9-f0f66cdc8c1f" /> Machine Learning ·🦾 Reinforcement Learning
 
 </div>
 
@@ -16,7 +16,7 @@ I'm especially interested in understanding how intelligent agents can learn thro
 
 ---
 
-## Me <img height="80px" alt="image" src="https://github.com/user-attachments/assets/8bd368e3-8fd4-4bad-85d5-3bd449fe55cb" />
+## <img height="80px" alt="image" src="https://github.com/user-attachments/assets/2eb56beb-c637-4b4a-b231-78353280d73a" />Me
 
 - 🔭 I'm currently building custom PyTorch implementations of advanced RL algorithms, such as **Rainbow DQN**.
 - 🌱 I'm exploring 3D reinforcement learning environments with Unity ML-Agents.
