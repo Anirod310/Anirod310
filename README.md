@@ -6,7 +6,7 @@
 <!-- 🖼️ PERSONAL PHOTO / ANIMATED GIF HERE -->
 <!-- Example: a photo of you, your workspace, or a subtle coding GIF -->
 
-## 💻 Computer Science Student · <img height="60px" valign="middle" alt="image" src="https://github.com/user-attachments/assets/f143eeeb-e94b-4c9a-9fa9-f0f66cdc8c1f" /> Machine Learning ·🦾 Reinforcement Learning
+## <img height="70px" valign="middle" alt="image" src="https://github.com/user-attachments/assets/ad80956c-d8d6-449f-9680-8a06873eed51" /> Computer Science Student · <img height="70px" alt="image" valign="middle" src="https://github.com/user-attachments/assets/74156ca3-cbb1-4850-8a28-4ff861ef4c76" /> Machine Learning · <img height="70px" valign="middle" alt="image" src="https://github.com/user-attachments/assets/d05f8df3-acba-418d-8835-364c7244e103" /> Reinforcement Learning
 
 </div>
 
@@ -16,33 +16,36 @@ I'm especially interested in understanding how intelligent agents can learn thro
 
 ---
 
-## <img height="80px" alt="image" src="https://github.com/user-attachments/assets/2eb56beb-c637-4b4a-b231-78353280d73a" />Me
+## <img height="80px" alt="image" src="https://github.com/user-attachments/assets/431afe8b-21a1-45e9-80d0-5823a197339d"/>Me
 
-- 🔭 I'm currently building custom PyTorch implementations of advanced RL algorithms, such as **Rainbow DQN**.
-- 🌱 I'm exploring 3D reinforcement learning environments with Unity ML-Agents.
-- 🤖 I'm planning to dive deeper into robotics simulation with NVIDIA Isaac Sim.
-- 🧠 I'm also learning LLMs and CNNs.
-- ⚙️ My main development tools are Python and PyTorch.
+- I'm currently building custom PyTorch implementations of advanced RL algorithms, such as **Rainbow DQN**.
+- I'm exploring 3D reinforcement learning environments with Unity ML-Agents.
+- I'm planning to dive deeper into robotics simulation with NVIDIA Isaac Sim.
+- I'm also learning LLMs and CNNs.
+- My main development tools are Python and PyTorch.
 
 <!-- 🎞️ GIF / PHOTO HERE -->
 <!-- Idea: a GIF of one of your RL agents training -->
 <!-- Ideally something like an agent improving over time -->
 
-> **My goal:** understand the algorithms from the inside out by implementing them myself.
+**My current main goal:** understand the algorithms from the inside out by implementing them myself.
 
 ---
 
+<img width="530" height="840" alt="image" src="https://github.com/user-attachments/assets/79b9d7f7-eeac-47db-9a0f-cd1ef8f2635a" />
+
+
 ## 🛠️ What I work with
 
-### 💻 Languages
+### Languages
 
 `Python` · `C` · `C#` · `Java`
 
-### 🧠 Machine Learning
+### Machine Learning
 
 `PyTorch` · `Gymnasium` · `Unity ML-Agents`
 
-### ⚙️ Tools & Environments
+### Tools & Environments
 
 `Linux (WSL 2)` · `Git` · `VS Code` · `MiniConda`
 
@@ -50,15 +53,15 @@ I'm especially interested in understanding how intelligent agents can learn thro
 
 ---
 
-# 🚀 Projects
+# Projects
 
 A few projects where I'm putting my knowledge into practice.
 
 ---
 
-## 🏆 Rainbow DQN — LunarLander-v3
+## Rainbow DQN — LunarLander-v3
 
-### [🌈 lunar-lander-rainbow-dqn](https://github.com/Anirod310/lunar-lander-rainbow-dqn)
+### [ lunar-lander-rainbow-dqn](https://github.com/Anirod310/lunar-lander-rainbow-dqn)
 
 A complete PyTorch implementation of Rainbow DQN, integrating:
 
@@ -80,7 +83,7 @@ This project is about going beyond simply using an existing implementation and a
 
 ---
 
-## 🎮 DQN & Double DQN — CartPole
+## DQN & Double DQN — CartPole
 
 ### [🧩 cartpole-dqn](https://github.com/Anirod310/cartpole-dqn)
 
@@ -97,7 +100,7 @@ This project focuses on **DQN and Double DQN**, providing a simpler environment 
 
 ---
 
-## ❄️ Tabular Q-Learning — FrozenLake
+## Tabular Q-Learning — FrozenLake
 
 ### [📊 frozenlake-qlearning](https://github.com/Anirod310/frozenlake-qlearning)
 
@@ -114,7 +117,7 @@ A project focused on the fundamentals of Reinforcement Learning, before moving t
 
 ---
 
-# 📈 What's next?
+# What's next?
 
 My current focus is on going deeper into Reinforcement Learning and progressively moving toward more complex environments.
 
