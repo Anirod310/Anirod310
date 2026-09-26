@@ -6,7 +6,7 @@
 <!-- 🖼️ PERSONAL PHOTO / ANIMATED GIF HERE -->
 <!-- Example: a photo of you, your workspace, or a subtle coding GIF -->
 
-## <img height="70px" valign="middle" alt="image" src="https://github.com/user-attachments/assets/ad80956c-d8d6-449f-9680-8a06873eed51" /> Computer Science Student · <img height="70px" alt="image" valign="middle" src="https://github.com/user-attachments/assets/74156ca3-cbb1-4850-8a28-4ff861ef4c76" /> Machine Learning · <img height="70px" valign="middle" alt="image" src="https://github.com/user-attachments/assets/d05f8df3-acba-418d-8835-364c7244e103" /> Reinforcement Learning
+## <img height="70px" valign="middle" alt="image" src="https://github.com/user-attachments/assets/ad80956c-d8d6-449f-9680-8a06873eed51" />Computer Science Student<img height="70px" valign="middle" alt="image" src="https://github.com/user-attachments/assets/4386de22-fa16-4866-8261-2b1ae7a394e6"/>Machine Learning<img height="70px" valign="middle" alt="image" src="https://github.com/user-attachments/assets/dd23d60a-19d6-4123-acf0-5f7dd8a9f00f"/>Reinforcement Learning
 
 </div>
 
@@ -16,7 +16,7 @@ I'm especially interested in understanding how intelligent agents can learn thro
 
 ---
 
-## <img height="80px" alt="image" src="https://github.com/user-attachments/assets/431afe8b-21a1-45e9-80d0-5823a197339d"/>Me
+## <img height="80px" alt="image" src="https://github.com/user-attachments/assets/431afe8b-21a1-45e9-80d0-5823a197339d"/>About Me
 
 - I'm currently building custom PyTorch implementations of advanced RL algorithms, such as **Rainbow DQN**.
 - I'm exploring 3D reinforcement learning environments with Unity ML-Agents.
