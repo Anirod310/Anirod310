@@ -57,8 +57,6 @@ I'm especially interested in understanding how intelligent agents can learn thro
 
 My current focus is on going deeper into Reinforcement Learning and progressively moving toward more complex environments.
 
-### Current → Future
-
 **Tabular RL**  
 ↓  
 **DQN / Double DQN**  
