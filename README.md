@@ -28,7 +28,7 @@ I'm especially interested in understanding how intelligent agents can learn thro
 <!-- Idea: a GIF of one of your RL agents training -->
 <!-- Ideally something like an agent improving over time -->
 
-**My current main goal:** understand the algorithms from the inside out by implementing them myself.
+**My current main goal:** understand AI algorithms from the inside out by implementing them myself.
 
 ---
 
