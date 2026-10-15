@@ -35,7 +35,7 @@ I'm especially interested in understanding how intelligent agents can learn thro
 <!-- <img width="330" height="640" alt="image" src="https://github.com/user-attachments/assets/79b9d7f7-eeac-47db-9a0f-cd1ef8f2635a" /> -->
 
 
-## 🛠️ What I work with
+## What I work with
 
 ### Languages
 
