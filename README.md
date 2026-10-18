@@ -6,7 +6,7 @@
 <!-- 🖼️ PERSONAL PHOTO / ANIMATED GIF HERE -->
 <!-- Example: a photo of you, your workspace, or a subtle coding GIF -->
 
-## <img height="70px" valign="middle" alt="image" src="https://github.com/user-attachments/assets/ad80956c-d8d6-449f-9680-8a06873eed51" />  ·  Machine Learning  ·  Reinforcement Learning <img height="70px" valign="middle" alt="image" src="https://github.com/user-attachments/assets/4386de22-fa16-4866-8261-2b1ae7a394e6"/>
+## <img height="70px" valign="middle" alt="image" src="https://github.com/user-attachments/assets/ad80956c-d8d6-449f-9680-8a06873eed51" />  ·  Machine Learning  ·  Reinforcement Learning · <img height="70px" valign="middle" alt="image" src="https://github.com/user-attachments/assets/4386de22-fa16-4866-8261-2b1ae7a394e6"/>
 
 </div>
 
