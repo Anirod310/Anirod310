@@ -57,15 +57,17 @@ I'm especially interested in understanding how intelligent agents can learn thro
 
 My current focus is on going deeper into Reinforcement Learning and progressively moving toward more complex environments.
 
-**Tabular RL**  
+**Tabular RL | ✓** 
 ↓  
-**DQN / Double DQN**  
+**DQN / Double DQN | ✓**  
 ↓  
-**Rainbow DQN**  
+**Rainbow DQN | In Progress...**  
 ↓  
-**3D RL — Unity ML-Agents**  
+**PPO On Gym / PPO On 3D RL — Unity ML-Agents |**
+↓
+**LLMs Basics |**
 ↓  
-**Robotics Simulation — NVIDIA Isaac Sim**
+**Robotics Simulation — NVIDIA Isaac Sim / Putting Alltogether |**
 
 <!-- 🖼️ PUT A PERSONAL "ROADMAP" IMAGE HERE -->
 <!-- You could make a small custom diagram showing this progression -->
